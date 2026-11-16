@@ -8,7 +8,6 @@ No Cost too Great
 No Mind to Think
 No Will to Break
 No voice to Crying Suffering
-
       %%-          ..%%      
    %%%%%              %%%%   
   %%%%                  %%%% 
