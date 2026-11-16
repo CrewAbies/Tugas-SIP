@@ -8,24 +8,6 @@ No Cost too Great
 No Mind to Think
 No Will to Break
 No voice to Crying Suffering
-      %%-          ..%%      
-   %%%%%              %%%%   
-  %%%%                  %%%% 
- %%%                     %%% 
- %%%                     %%% 
- %%%                     %%% 
- %%%                    %%%# 
-   %%%=   .=#%%#+- ..%%%%%   
-    %%%%%%%%%%%%%%%%%%%%%    
-    %%%%%%%%%%%%%%%%%%%%%    
-    %%%%%%%%%%%%%%%%%%%%-    
-    %%%%%%%%%%%%%%%%%%%%.    
-     %%     %%%%%     %%     
-     %      %%%%%      %     
-     #%     %%%%%%    %=     
-      %%%%%%%%%%%%%%%%#      
-         .%%%%%%%%%:         
-
 
 # WebGIS PTN Surabaya Peta interaktif sebaran Perguruan Tinggi Negeri (PTN) di Surabaya, dibuat untuk praktikum mata kuliah Sistem Informasi Perencanaan (SIP) 2026. 
 
